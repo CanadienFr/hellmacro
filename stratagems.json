@@ -50,6 +50,7 @@
     "A/ARC-3 Tesla Tower": {"sequence": ["down", "up", "right", "up", "left", "right"], "color": "#7FFF00"},
     "A/FLAM-40 Flame Sentry": {"sequence": ["down", "up", "right", "down", "up", "up"], "color": "#7FFF00"},
     "A/G-16 Gatling Sentry": {"sequence": ["down", "up", "right", "left"], "color": "#7FFF00"},
+    "A/M-12 Mortar Sentry": {"sequence": ["down", "up", "right", "right", "down"], "color": "#7FFF00"},
     "A/M-23 EMS Mortar Sentry": {"sequence": ["down", "up", "right", "down", "right"], "color": "#7FFF00"},
     "A/MG-43 Machine Gun Sentry": {"sequence": ["down", "up", "right", "right", "up"], "color": "#7FFF00"},
     "A/MLS-4X Rocket Sentry": {"sequence": ["down", "up", "right", "right", "left"], "color": "#7FFF00"},
